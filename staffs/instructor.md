@@ -1,7 +1,7 @@
 # Course Instructor
 
 
-![Dr. Seyyed Ali Emami Khansari ](../images/staffs/Emami.jpg){: width="200px" style="border-radius: 10px;" }
+![Dr. Seyyed Ali Emami Khansari ](../images/staffs/Emami.png){: width="200px" style="border-radius: 10px;" }
 
 ## Dr. Seyyed Ali Emami Khansari 
 - **Email**: emami@sharif.edu 
