@@ -1,0 +1,9 @@
+title: PMLCourse
+description: Princiles of Machine Learning, 2025 
+theme: just-the-docs
+
+# Optional: Enable search
+search_enabled: true
+
+# Optional: Set a base URL (only if you're using a custom domain)
+# baseurl: "/my-docs-site"
