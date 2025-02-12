@@ -65,7 +65,7 @@
 
         <!-- TA 2 -->
         <div class="ta-box">
-            <img src="./images/staffs/Shahrajabian.jpg" alt="Mahdi Shahrajabian">
+            <img src="./images/staffs/Shahrajabian.png" alt="Mahdi Shahrajabian">
             <h3>Mahdi Shahrajabian</h3>
             <p>Teaching Assistant</p>
             <p><a href="mailto:shahrajabian@sharif.edu">Email</a></p>
