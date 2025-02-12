@@ -10,19 +10,21 @@ nav:
   - title: Home
     url: /
     nav_order: 1
-  - title: About
-    url: /about
+  - title: Syllabus
+    url: /syllabus
     nav_order: 2
-  - title: Setup
-    url: /setup
+  - title: Resources
+    url: /resources
     nav_order: 3
-    children:
-      - title: Installation
-        url: /installation
-        nav_order: 1
-      - title: Configuration
-        url: /configuration
-        nav_order: 2
+  - title: Assignments
+    url: /assignments
+    nav_order: 4
+  - title: Staff
+    url: /staff
+    nav_order: 5
+  - title: FAQ
+    url: /faq
+    nav_order: 6
 
 
 # Color customization
