@@ -47,7 +47,7 @@
 <!-- Instructor -->
 <div class="staff-container">
     <div class="instructor-box">
-        <img src="./images/staffs/Emami.jpg" alt="Dr. John Doe">
+        <img src="./images/staffs/Emami.jpg" alt="Dr. Seyyed Ali Emami Khansari">
         <h3>Dr. Seyyed Ali Emami Khansari</h3>
         <p>Instructor</p>
         <p><a href="mailto:emami@sharif.edu">Email</a></p>
@@ -57,7 +57,7 @@
     <div class="ta-container">
         <!-- TA 1 -->
         <div class="ta-box">
-            <img src="./images/staffs/Narimani.png" alt="Alice Smith">
+            <img src="./images/staffs/Narimani.png" alt="Mohammad Narimani">
             <h3>Mohammad Narimani</h3>
             <p>Teaching Assistant</p>
             <p><a href="mailto:narimani@sharif.edu">Email</a></p>
@@ -65,7 +65,7 @@
 
         <!-- TA 2 -->
         <div class="ta-box">
-            <img src="./images/staffs/Shahrajabian.jpg" alt="Bob Johnson">
+            <img src="./images/staffs/Shahrajabian.jpg" alt="Mahdi Shahrajabian">
             <h3>Mahdi Shahrajabian</h3>
             <p>Teaching Assistant</p>
             <p><a href="mailto:shahrajabian@sharif.edu">Email</a></p>
