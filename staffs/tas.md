@@ -7,7 +7,7 @@
 - **Expertise**:  
 
 ## Mahdi Shahrajabian 
-![Mahdi Shahrajabian ](../images/staffs/Shahrajabian.jpg){: width="150px" style="border-radius: 10px;" }
+![Mahdi Shahrajabian ](../images/staffs/Shahrajabian.png){: width="150px" style="border-radius: 10px;" }
 
 - **Email**: 
 - **Expertise**:  
