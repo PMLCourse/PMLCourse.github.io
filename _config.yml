@@ -21,3 +21,6 @@ nav:
 
 # Color customization
 color_scheme: dark  # Options: light, dark
+
+logo: "/logo.png"
+
