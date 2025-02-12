@@ -1,9 +1,19 @@
 title: PMLCourse
 description: Princiles of Machine Learning, 2025 
 theme: just-the-docs
-
-# Optional: Enable search
 search_enabled: true
 
-# Optional: Set a base URL (only if you're using a custom domain)
-# baseurl: "/my-docs-site"
+# Navigation order
+nav_order: 1
+
+# Sidebar settings
+nav:
+  - title: Home
+    url: /
+    nav_order: 1
+  - title: About
+    url: /about
+    nav_order: 2
+  - title: Installation
+    url: /installation
+    nav_order: 3
