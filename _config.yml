@@ -17,3 +17,7 @@ nav:
   - title: Installation
     url: /installation
     nav_order: 3
+
+
+# Color customization
+color_scheme: dark  # Options: light, dark
