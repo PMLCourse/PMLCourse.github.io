@@ -24,3 +24,7 @@ color_scheme: dark  # Options: light, dark
 
 logo: "/logo.png"
 
+
+footer_content: "© 2025 My Documentation Site. All rights reserved."
+
+
