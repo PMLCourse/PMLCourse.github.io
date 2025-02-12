@@ -47,7 +47,7 @@
 <!-- Instructor -->
 <div class="staff-container">
     <div class="instructor-box">
-        <img src="./images/staffs/Emami.jpg" alt="Dr. Seyyed Ali Emami Khansari">
+        <img src="./images/staffs/Emami.png" alt="Dr. Seyyed Ali Emami Khansari">
         <h3>Dr. Seyyed Ali Emami Khansari</h3>
         <p>Instructor</p>
         <p><a href="mailto:emami@sharif.edu">Email</a></p>
