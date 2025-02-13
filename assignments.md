@@ -1,3 +1,8 @@
+---
+title: Assignments
+nav_order: 3
+---
+
 # Assignments
 
 Below are the assignments for each chapter. Click on the links to download the PDF.
