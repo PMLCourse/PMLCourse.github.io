@@ -71,6 +71,9 @@ Here is the weekly schedule with lecture topics, slides, recordings, and notes.
   text-decoration: none;
 }
 </style>
+# 📅 Course Schedule
+
+Here is the weekly schedule with lecture topics and downloadable PDFs.
 
 ## Week 1
 
@@ -81,21 +84,14 @@ Here is the weekly schedule with lecture topics, slides, recordings, and notes.
     <th>Resources</th>
   </tr>
   <tr>
-    <td><strong>Jan 8</strong></td>
-    <td><span class="badge">1</span> <strong>Introduction</strong> <br><em>Reading:</em> N/A</td>
-    <td><a href="#">Slides</a> • <a href="#">Recording</a> <br>
-        <span class="survey-badge">SURVEY</span> <a href="#">Beginning of Quarter Survey</a>
-    </td>
+    <td><strong>Feb 9</strong></td>
+    <td><span class="badge">1</span> <strong>Lecture 1: Introduction and Course Overview</strong> <br><em>Reading:</em> N/A</td>
+    <td><a href="./lectures/Lecture_1_Introduction_and_Course_Overview.pdf" target="_blank">Lecture PDF</a> • <a href="#">Slides</a> • <a href="#">Recording</a></td>
   </tr>
   <tr>
-    <td><strong>Jan 10</strong></td>
-    <td><span class="badge">2</span> <strong>Basics: Computer Organization, Operating Systems, Storage</strong> <br><em>Reading:</em> N/A</td>
-    <td><a href="#">Slides</a> • <a href="#">Recording</a> • <a href="#">Scribe Notes</a></td>
+    <td><strong>Feb 16</strong></td>
+    <td><span class="badge">2</span> <strong>Lecture 2: Matrix Decomposition</strong> <br><em>Reading:</em> N/A</td>
+    <td><a href="./lectures/Lecture_2_Matrix_Decomposition.pdf" target="_blank">Lecture PDF</a> • <a href="#">Slides</a> • <a href="#">Recording</a></td>
   </tr>
-  <tr>
-    <td><strong>Jan 12</strong></td>
-    <td><span class="badge">3</span> <strong>Basics: Computer Organization, Operating Systems, Storage</strong> <br><em>Reading:</em> N/A</td>
-    <td><a href="#">Slides</a> • <a href="#">Recording</a> • <a href="#">Scribe Notes</a></td>
-  </tr>
-</table>
 
+</table>
