@@ -1,4 +1,7 @@
-# Syllabus
+---
+title: Syllabus
+nav_order: 2
+---
 
 ## Week 1: Introduction to Machine Learning
 - What is machine learning?
