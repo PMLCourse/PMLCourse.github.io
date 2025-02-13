@@ -27,11 +27,6 @@ By the end of this course, students will have the knowledge and experience to un
 
 
 
-
-# 📅 Course Schedule
-
-Here is the weekly schedule with lecture topics, slides, recordings, and notes.
-
 <style>
 .schedule-table {
   width: 100%;
