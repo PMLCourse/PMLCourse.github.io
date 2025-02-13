@@ -1,7 +1,8 @@
 ---
 title: FAQs
-nav_order: 6
+nav_order: 5
 ---
+
 
 # ❓ Frequently Asked Questions (FAQ)
 
