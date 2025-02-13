@@ -1,5 +1,7 @@
-# Resources
-
+---
+title: Resources
+nav_order: 4
+---
 
 ## References
 1. G James, D Witten, T Hastie, R Tibshirani, J Taylor (2023). An introduction to statistical learning:
