@@ -1,4 +1,8 @@
-# Course Staff
+---
+title: Staff
+nav_order: 6
+---
+
 
 <style>
 .staff-container {
