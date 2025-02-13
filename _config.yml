@@ -1,14 +1,14 @@
 title: PMLCourse
 description: Princiles of Machine Learning, 2025 
 remote_theme: just-the-docs/just-the-docs
-search_enabled: true
 
+search_enabled: true
 
 nav_order: 1  # Controls sidebar order
 
 nav:
   - title: Home
-    url: /home
+    url: /
     nav_order: 1
   - title: Syllabus
     url: /syllabus
@@ -20,7 +20,7 @@ nav:
     url: /assignments
     nav_order: 4
   - title: Staff
-    url: /staff
+    url: /staffs
     nav_order: 5
   - title: FAQ
     url: /faq
@@ -34,5 +34,8 @@ logo: "/logo.png"
 
 
 footer_content: "© 2025 My Documentation Site. All rights reserved."
+
+
+
 
 
