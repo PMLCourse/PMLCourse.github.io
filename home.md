@@ -1,3 +1,9 @@
+---
+title: Home
+nav_order: 1
+permalink: /
+---
+
 # Principles of Machine Learning
 
 This course provides a comprehensive introduction to the principles and applications of machine learning. Designed for both undergraduate and graduate students from diverse academic backgrounds, the course balances theoretical foundations with practical implementations.
