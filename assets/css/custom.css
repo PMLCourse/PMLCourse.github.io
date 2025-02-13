@@ -1,0 +1,10 @@
+/* Reduce Sidebar Width */
+@media (min-width: 768px) {
+  .side-bar {
+    width: 200px !important; /* Adjust the width */
+  }
+  
+  .main {
+    margin-left: 210px !important; /* Ensure main content adjusts accordingly */
+  }
+}
