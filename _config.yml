@@ -28,6 +28,12 @@ nav:
     nav_order: 6
 
 
+# Custom CSS
+assets:
+  stylesheets:
+    - assets/css/custom.css
+
+
 # Color customization
 color_scheme: light  # Options: light, dark
 
